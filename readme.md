@@ -22,10 +22,6 @@ PumpyDumpy - Pump.fun bot & bundler offers <b>fully transparent</b> source code 
 - The codebase is meticulously optimized to deliver unparalleled stability and speed ⚡
 - Seamless integration with <b>*Raydium*</b> buy/sell after token is graduated 🎓
 
-
-## Architecture 🧱
-<img src="https://github.com/skamazer/pumpydumpy-pumpfun-bot/assets/170870446/ffbd23d7-567b-4828-b40b-4cce08bd7a24" width="700" />
-
 ## Wombo Combo 💥🥊
 🔮 Orchestrate an ultimate combo utilizing different bots & bundler all-in-one with their own customized *Wallet Set* settings by PumpyDumpy 😈
 1. <b>👛 Wallet Sets setup</b>
