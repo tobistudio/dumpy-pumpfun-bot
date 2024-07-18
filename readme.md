@@ -10,10 +10,6 @@
 ## Contact Us  ☎️
 PumpyDumpy - Pump.fun bot & bundler offers <b>fully transparent</b> source code for purchase. For any additional inquiries, reach out to [@tobi109i](https://t.me/tobi109i)
 
-<div align="center">
-  <video src="https://github.com/skamazer/pumpydumpy-pumpfun-bot/assets/170870446/227ec7bd-6a92-4864-b2c6-f3bcd39a64f9"/>
-</div>
-
 
 
 
